@@ -1,0 +1,49 @@
+reservation for: شس
+phone: 98770
+date: 433
+guest_number: 21
+table_number: 2
+status: reserved
+--------------------
+reservation for: لال
+phone: 34
+date: 34
+guest_number: 34
+table_number: 24
+status: reserved
+--------------------
+reservation for: basmallaa
+phone: 123456
+date: 12345
+guest_number: 3456
+table_number: 345
+status: reserved
+--------------------
+reservation for: شس
+phone: 98770
+date: 433
+guest_number: 21
+table_number: 2
+status: reserved
+--------------------
+reservation for: لال
+phone: 34
+date: 34
+guest_number: 34
+table_number: 24
+status: reserved
+--------------------
+reservation for: basmallaa
+phone: 123456
+date: 12345
+guest_number: 3456
+table_number: 345
+status: reserved
+--------------------
+reservation for: ew
+phone: 34
+date: 43
+guest_number: 34
+table_number: 34
+status: reserved
+--------------------
